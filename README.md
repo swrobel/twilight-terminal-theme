@@ -21,3 +21,4 @@ You must have [ZSH](https://github.com/robbyrussell/oh-my-zsh "Oh My ZSH") insta
 ## Terminal Settings
 
 <img src="https://raw.github.com/dsalzr/twilight-terminal-theme/master/settings.png" alt="Terminal Settings" />
+
