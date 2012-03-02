@@ -12,7 +12,7 @@ You must have [ZSH](https://github.com/robbyrussell/oh-my-zsh "Oh My ZSH") insta
 
 1. Double click the **Twilight.terminal** file to install the base theme.
 
-2. Copy **Twilight.zsh-theme** to ~/.oh-my-zsh/themes
+2. Copy **twilight.zsh-theme** to ~/.oh-my-zsh/themes
 
 3. In ~/.zshrc change theme to **ZSH_THEME="twilight"**
 
