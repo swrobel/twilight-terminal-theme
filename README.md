@@ -2,17 +2,13 @@
 
 A Twilight terminal theme for Mac including custom LSCOLORS.
 
-<img src="https://raw.github.com/dsalzr/twilight-terminal-theme/master/preview.png" alt="Twilight Terminal Theme" />
+![Screenshot](https://raw.githubusercontent.com/swrobel/twilight-terminal-theme/master/preview.png)
 
 ## Installation
 
 1. Double click the **Twilight.terminal** file to install the base theme.
 
 2. Add **export LSCOLORS="exfxcxdxbxegedabagacad"** to ~/.bash_profile
-
-## Terminal Settings
-
-<img src="https://raw.github.com/dsalzr/twilight-terminal-theme/master/settings.png" alt="Terminal Settings" />
 
 ## ZSH Extras
 
