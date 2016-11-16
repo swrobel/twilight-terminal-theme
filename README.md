@@ -14,7 +14,7 @@ A Twilight terminal theme for Mac including custom LSCOLORS.
 
 If you have [ZSH](https://github.com/robbyrussell/oh-my-zsh "Oh My ZSH") installed, you can also customize the prompt like in the picture above.
 
-1. Copy **twilight.zsh-theme** to ~/.oh-my-zsh/themes
+1. `ln twilight.zsh-theme ~/.oh-my-zsh/custom/themes`
 
 2. In ~/.zshrc change theme name: **ZSH_THEME="twilight"**
 
